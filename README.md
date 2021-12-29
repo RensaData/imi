@@ -6,14 +6,14 @@ Rensa IMI (Infrastructure for Multilayer Interoperability:情報共有基盤)
 
 ## list
 
-### privatekey
+### privateKey
 
-- https://rensadata.github.io/imi/#privatekey
+- https://rensadata.github.io/imi/#privateKey
 - 64 byte private key by Ed25519
 
-### publickey
+### publicKey
 
-- https://rensadata.github.io/imi/#publickey
+- https://rensadata.github.io/imi/#publicKey
 - 32 byte public key by Ed25519
 
 ## Copyright and License
